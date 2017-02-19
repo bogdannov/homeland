@@ -1,0 +1,30 @@
+header{
+  margin-bottom: 50px;
+}
+
+.card-img-top{
+      max-height: 250px;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+.btn-custom{
+    background-color: #101112;
+}
+.btn-custom:hover{
+  background-color: #5bc0de;
+}
+
+.card{
+  margin-right: 10px;
+  margin-bottom: 20px;
+  max-width: 20rem;
+  padding: 0;
+}
+
+.card-text{
+  max-height: 240px;
+  overflow: hidden;
+}
